@@ -1,0 +1,2 @@
+/usr/bin/ar qc libOperationLib.a CMakeFiles/OperationLib.dir/OperationLib.cpp.o
+/usr/bin/ranlib libOperationLib.a

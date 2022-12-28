@@ -1,0 +1,5 @@
+/home/dvo2hc/Learning/GGTest/build/CMakeFiles/OperationLib.dir
+/home/dvo2hc/Learning/GGTest/build/CMakeFiles/main.dir
+/home/dvo2hc/Learning/GGTest/build/CMakeFiles/test.dir
+/home/dvo2hc/Learning/GGTest/build/CMakeFiles/edit_cache.dir
+/home/dvo2hc/Learning/GGTest/build/CMakeFiles/rebuild_cache.dir
